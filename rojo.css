@@ -1,0 +1,12 @@
+body{
+background-color: rgb(33, 60, 180);
+}
+
+button{
+ background-color: crimson;  
+ padding: 20px;
+ color: rgb(255, 255, 255);
+}
+h1{
+ color: rgb(255, 255, 255);   
+}
